@@ -15,4 +15,3 @@ Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae s
 
 
 
-![alt text](htic.JPG)

@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: Latest Blogs From Team
 
 # View.
 #   1 = List

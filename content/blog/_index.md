@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: Blogs
 
 # View.
 #   1 = List

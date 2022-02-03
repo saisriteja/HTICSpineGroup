@@ -20,6 +20,4 @@ design:
 
 <br>
 
-The **HTIC Spine Surgical Robotics Team** is a group of unique minded people gathered together to help the medical community using robotics in every possible way. We have our prime focus on Spine Surgical robotics as of now.
-
-Spine surgery for treatment of various conditions such as degenerative disc disease, scoliosis, spinal deformities, trauma, tumors etc involves highly skill-intensive procedures such as positioning of k-wire, pedicle screw, tools and other implants. HTIC is developing an affordable system for technology-assisted robotic spine surgery using the IGS technology platform. A CT based surgical planning system is being developed with provision to select procedure specific tools (k-wire, pedicle screw etc.) and position them over the 3D reconstructed anatomy for virtual surgery planning. 
+Spine surgery for treatment of various conditions such as degenerative disc disease, scoliosis, spinal deformities, trauma, tumors etc involves highly skill-intensive procedures such as positioning of k-wire, pedicle screw, tools and other implants. HTIC SST team is developing an affordable system for technology-assisted robotic spine surgery using the IGS technology platform. A CT based surgical planning system is being developed with provision to select procedure specific tools (k-wire, pedicle screw etc.) and position them over the 3D reconstructed anatomy for virtual surgery planning. 

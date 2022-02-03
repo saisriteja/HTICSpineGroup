@@ -9,8 +9,8 @@ weight: 5  # Order that this section will appear.
 title: |
   HTIC SSR
 hero_media: HTICIITM.webp
-hero_media: HTICIITM.webp
-hero_media: HTICIITM.webp
+
+
 
 
 design:

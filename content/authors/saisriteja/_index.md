@@ -1,6 +1,6 @@
 ---
 # Display name
-title: SSR Team
+title: saisriteja
 
 # Is this the primary user of the site?
 superuser: true

@@ -1,37 +1,31 @@
 ---
 # Display name
-title: saisriteja
+title: SaiSriTeja
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Project Engineer at HTIC IIT Madras
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: IIT Madras
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include distributed robotics and AI.
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Serial Manipulators
+
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Bachelors in Electronics and Communication Engineering
+    institution: SASTRA University
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -57,7 +51,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "saisriteja.k@htic.iitm.ac.in"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -68,6 +62,6 @@ user_groups:
 - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Despite being an Undergrad student in Electronics and Communication, I have completed, courses in Deep Learning, Machine Learning and Robotics by hands-on practice approach, and data analysis that has provided me with a firm understanding of rising market strategies and technologies.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My interests include the fields of Space and technology, Machine learning, Brain-Computer Interface and Robotics(Medical and Defence).

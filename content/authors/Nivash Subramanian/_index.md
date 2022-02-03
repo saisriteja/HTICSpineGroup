@@ -66,4 +66,4 @@ user_groups:
 - Grad Students
 ---
 
-I am a mechanical engineer.
+I am a mechanical engineer who highly loves to design things inspried from nature. My contributions to the team includes CAD modeling of mechanical components of the robot and working things on the mechanical end. Other intrests include space technology, loves to dance.
